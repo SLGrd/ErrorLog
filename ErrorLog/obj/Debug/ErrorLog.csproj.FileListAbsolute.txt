@@ -1,0 +1,10 @@
+C:\Tutoriais\ErrorLog\ErrorLog\bin\Debug\ErrorLog.exe.config
+C:\Tutoriais\ErrorLog\ErrorLog\bin\Debug\ErrorLog.exe
+C:\Tutoriais\ErrorLog\ErrorLog\bin\Debug\ErrorLog.pdb
+C:\Tutoriais\ErrorLog\ErrorLog\obj\Debug\ErrorLog.csprojAssemblyReference.cache
+C:\Tutoriais\ErrorLog\ErrorLog\obj\Debug\ErrorLog.FrmErrorLog.resources
+C:\Tutoriais\ErrorLog\ErrorLog\obj\Debug\ErrorLog.Properties.Resources.resources
+C:\Tutoriais\ErrorLog\ErrorLog\obj\Debug\ErrorLog.csproj.GenerateResource.cache
+C:\Tutoriais\ErrorLog\ErrorLog\obj\Debug\ErrorLog.csproj.CoreCompileInputs.cache
+C:\Tutoriais\ErrorLog\ErrorLog\obj\Debug\ErrorLog.exe
+C:\Tutoriais\ErrorLog\ErrorLog\obj\Debug\ErrorLog.pdb

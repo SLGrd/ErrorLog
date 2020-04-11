@@ -1,0 +1,60 @@
+4/10/2020 10:16:51 PM - Stack Trace     =    at ErrorLog.FrmErrorLog.Dividir(String Numerador, String Denominador) in C:\Tutoriais\ErrorLog\ErrorLog\FrmErrorLog.cs:line 58
+4/10/2020 10:16:51 PM - Source          = ErrorLog
+4/10/2020 10:16:51 PM - Message         = Denominador nao pode ser zero.
+4/10/2020 10:16:51 PM - Inner Exception = System.DivideByZeroException: Attempted to divide by zero.
+4/10/2020 10:16:55 PM - Stack Trace     =    at ErrorLog.FrmErrorLog.Dividir(String Numerador, String Denominador) in C:\Tutoriais\ErrorLog\ErrorLog\FrmErrorLog.cs:line 67
+   at ErrorLog.FrmErrorLog.BtnGoBox_Click(Object sender, EventArgs e) in C:\Tutoriais\ErrorLog\ErrorLog\FrmErrorLog.cs:line 36
+4/10/2020 10:16:55 PM - Source          = ErrorLog
+4/10/2020 10:16:55 PM - Message         = Denominador nao pode ser zero.
+4/10/2020 10:16:55 PM - Inner Exception = System.DivideByZeroException: Attempted to divide by zero.
+4/10/2020 10:19:22 PM - Stack Trace     =    at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s)
+   at ErrorLog.FrmErrorLog.Dividir(String Numerador, String Denominador) in C:\Tutoriais\ErrorLog\ErrorLog\FrmErrorLog.cs:line 54
+4/10/2020 10:19:22 PM - Source          = mscorlib
+4/10/2020 10:19:22 PM - Message         = Input string was not in a correct format.
+4/10/2020 10:19:22 PM - Inner Exception = 
+4/10/2020 10:19:22 PM - Stack Trace     =    at ErrorLog.FrmErrorLog.Dividir(String Numerador, String Denominador) in C:\Tutoriais\ErrorLog\ErrorLog\FrmErrorLog.cs:line 75
+   at ErrorLog.FrmErrorLog.BtnGoBox_Click(Object sender, EventArgs e) in C:\Tutoriais\ErrorLog\ErrorLog\FrmErrorLog.cs:line 36
+4/10/2020 10:19:22 PM - Source          = mscorlib
+4/10/2020 10:19:22 PM - Message         = Input string was not in a correct format.
+4/10/2020 10:19:22 PM - Inner Exception = 
+4/11/2020 1:58:30 AM - Stack Trace     =    at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s)
+   at ErrorLog.FrmErrorLog.Dividir(String Numerador, String Denominador) in C:\Tutoriais\ErrorLog\ErrorLog\FrmErrorLog.cs:line 52
+4/11/2020 1:58:30 AM - Source          = mscorlib
+4/11/2020 1:58:30 AM - Message         = Input string was not in a correct format.
+4/11/2020 1:58:30 AM - Inner Exception = 
+4/11/2020 1:58:30 AM - Stack Trace     =    at ErrorLog.FrmErrorLog.Dividir(String Numerador, String Denominador) in C:\Tutoriais\ErrorLog\ErrorLog\FrmErrorLog.cs:line 73
+   at ErrorLog.FrmErrorLog.BtnGoBox_Click(Object sender, EventArgs e) in C:\Tutoriais\ErrorLog\ErrorLog\FrmErrorLog.cs:line 35
+4/11/2020 1:58:30 AM - Source          = mscorlib
+4/11/2020 1:58:30 AM - Message         = Input string was not in a correct format.
+4/11/2020 1:58:30 AM - Inner Exception = 
+4/11/2020 2:04:32 AM - Stack Trace     =    at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s)
+   at ErrorLog.FrmErrorLog.Dividir(String Numerador, String Denominador) in C:\Tutoriais\ErrorLog\ErrorLog\FrmErrorLog.cs:line 52
+4/11/2020 2:04:32 AM - Source          = mscorlib
+4/11/2020 2:04:32 AM - Message         = Input string was not in a correct format.
+4/11/2020 2:04:32 AM - Inner Exception = 
+4/11/2020 2:06:17 AM - Stack Trace     =    at ErrorLog.FrmErrorLog.Dividir(String Numerador, String Denominador) in C:\Tutoriais\ErrorLog\ErrorLog\FrmErrorLog.cs:line 73
+   at ErrorLog.FrmErrorLog.BtnGoBox_Click(Object sender, EventArgs e) in C:\Tutoriais\ErrorLog\ErrorLog\FrmErrorLog.cs:line 35
+4/11/2020 2:06:17 AM - Source          = mscorlib
+4/11/2020 2:06:17 AM - Message         = Input string was not in a correct format.
+4/11/2020 2:06:17 AM - Inner Exception = 
+4/11/2020 2:19:03 AM - Stack Trace     =    at ErrorLog.FrmErrorLog.Dividir(String Numerador, String Denominador) in C:\Tutoriais\ErrorLog\ErrorLog\FrmErrorLog.cs:line 56
+4/11/2020 2:19:03 AM - Source          = ErrorLog
+4/11/2020 2:19:03 AM - Message         = Denominador nao pode ser zero.
+4/11/2020 2:19:03 AM - Inner Exception = System.DivideByZeroException: Attempted to divide by zero.
+4/11/2020 2:19:03 AM - Stack Trace     =    at ErrorLog.FrmErrorLog.Dividir(String Numerador, String Denominador) in C:\Tutoriais\ErrorLog\ErrorLog\FrmErrorLog.cs:line 65
+   at ErrorLog.FrmErrorLog.BtnGoBox_Click(Object sender, EventArgs e) in C:\Tutoriais\ErrorLog\ErrorLog\FrmErrorLog.cs:line 35
+4/11/2020 2:19:03 AM - Source          = ErrorLog
+4/11/2020 2:19:03 AM - Message         = Denominador nao pode ser zero.
+4/11/2020 2:19:03 AM - Inner Exception = System.DivideByZeroException: Attempted to divide by zero.
+4/11/2020 2:21:21 AM - Stack Trace     =    at ErrorLog.FrmErrorLog.Dividir(String Numerador, String Denominador) in C:\Tutoriais\ErrorLog\ErrorLog\FrmErrorLog.cs:line 56
+4/11/2020 2:21:21 AM - Source          = ErrorLog
+4/11/2020 2:21:21 AM - Message         = Denominador nao pode ser zero.
+4/11/2020 2:21:21 AM - Inner Exception = System.DivideByZeroException: Attempted to divide by zero.
+4/11/2020 2:21:21 AM - Stack Trace     =    at ErrorLog.FrmErrorLog.Dividir(String Numerador, String Denominador) in C:\Tutoriais\ErrorLog\ErrorLog\FrmErrorLog.cs:line 65
+   at ErrorLog.FrmErrorLog.BtnGoBox_Click(Object sender, EventArgs e) in C:\Tutoriais\ErrorLog\ErrorLog\FrmErrorLog.cs:line 35
+4/11/2020 2:21:21 AM - Source          = ErrorLog
+4/11/2020 2:21:21 AM - Message         = Denominador nao pode ser zero.
+4/11/2020 2:21:21 AM - Inner Exception = System.DivideByZeroException: Attempted to divide by zero.
